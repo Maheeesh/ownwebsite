@@ -28,7 +28,8 @@ h1{
    /* background-color: blueviolet;
     width: 200px;
     height: 200px; */ 
-    padding: 30px;
+    padding-top: 30px;
+    padding-bottom: 5px;
 }
 
 /*
